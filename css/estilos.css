@@ -3,4 +3,14 @@ nav a:hover{
 }
 
 
+.card-texto a {
+    text-decoration: none;
+    color: magenta; 
+    transition: color 0.3s, text-decoration 0.3s; 
+}
 
+
+.card-texto a:hover {
+    text-decoration: underline; 
+    color: moccasin; 
+}
